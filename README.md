@@ -1,4 +1,4 @@
-#Sensor de incêndio para torres de comunicação com ESP32 NodeMCU
+Sensor de incêndio para torres de comunicação com ESP32 NodeMCU
 ---
 Projeto composto por 5 estudantes de Sistemas da Informação e Engenharia de Software da Faculdade da Indústria em São José dos Pinhais, onde 3 participaram ativamente na criação deste código. Visa criar um dispositivo que informe a empresa via Telegram que foi detectado fumaça em um local remoto (onde as torres de comunicação se encontram) e assim possam agilizar o combate ao fogo.
 
