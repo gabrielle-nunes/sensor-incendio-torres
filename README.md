@@ -7,23 +7,23 @@ Students of the Information Systems and Software Engineering courses at the Facu
 *Dispositivos usados no projeto:* 
 *Devices used in the project:*
 
-    **ESP 32 NodeMCU**
-    **MQ-135**
-    **LED ou Buzzer**
-    **Protoboard**
-    **Jumpers**
-    **Painel solar para Arduino (Solar panel for Arduino)**
-    **Módulo de baterias de Li-on (Li-on battery module)**
-    **Stepdown**
-    **CN-3065 Mini Carregador Solar (Mini Solar Charger)**
+      ESP 32 NodeMCU
+      MQ-135
+      LED ou Buzzer
+      Protoboard
+      Jumpers
+      Painel solar para Arduino (Solar panel for Arduino)
+      Módulo de baterias de Li-on (Li-on battery module)
+      Stepdown
+      CN-3065 Mini Carregador Solar (Mini Solar Charger)
 
 *Bibliotecas e IDE:* 
 *Libraries and IDE:*
 
-    **IDE Arduino**
-    **WiFi.h**
-    **WiFiClientSecure.h**
-    **UniversalTelegramBot.h**
+      IDE Arduino
+      WiFi.h
+      WiFiClientSecure.h
+      UniversalTelegramBot.h
 
 *Inicialmente, para que o dispositivo fosse mais independente, utilizaríamos o SIM800L pra conexão 3G, mas devido a restrição da ANATEL sobre IMEI's, decidimos concluir com WI-FI. Nossa sugestão é utilizar o roteador industrial HF-8104.*
 
