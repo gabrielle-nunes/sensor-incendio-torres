@@ -2,7 +2,7 @@ Sensor de incêndio para torres de comunicação com ESP32 NodeMCU
 ---
 Projeto composto por 5 estudantes de Sistemas da Informação e Engenharia de Software da Faculdade da Indústria em São José dos Pinhais, onde 3 participaram ativamente na criação deste código. Visa criar um dispositivo que informe a empresa via Telegram que foi detectado fumaça em um local remoto (onde as torres de comunicação se encontram) e assim possam agilizar o combate ao fogo.
 
-Students of the Information Systems and Software Engineering courses at the Faculty of Industry in the city of São José dos Pinhais, composed of 5 students. 3 students actively participated in the creation of this code. This code is used to create a device that informs the company through the Telegram application that smoke has been detected in a remote location (where the communication towers are located). With this device, the company can speed up fire fighting.
+Students of the Information Systems and Software Engineering courses at the Faculdade da Indústria in the city of São José dos Pinhais, composed of 5 students. 3 students actively participated in the creation of this code. This code is used to create a device that informs the company through the Telegram application that smoke has been detected in a remote location (where the communication towers are located). With this device, the company can speed up fire fighting.
 
 *Dispositivos usados no projeto:* 
 *Devices used in the project:*
